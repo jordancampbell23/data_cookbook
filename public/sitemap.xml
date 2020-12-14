@@ -2,19 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://example.com/en/sitemap.xml</loc>
+    <loc>https://reason-cookbook.netlify.app/en/sitemap.xml</loc>
     
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://example.com/ru/sitemap.xml</loc>
+      <lastmod>2020-12-13T16:46:36-08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://example.com/zh/sitemap.xml</loc>
+    <loc>https://reason-cookbook.netlify.app/ru/sitemap.xml</loc>
     
   </sitemap>
   

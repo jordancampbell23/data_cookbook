@@ -3,59 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/ru/categories/</loc>
+    <loc>https://reason-cookbook.netlify.app/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://example.com/zh/categories/"
+                href="https://reason-cookbook.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/categories/"
+                href="https://reason-cookbook.netlify.app/ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/ru/tags/</loc>
+    <loc>https://reason-cookbook.netlify.app/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://example.com/zh/tags/"
+                href="https://reason-cookbook.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/"
+                href="https://reason-cookbook.netlify.app/ru/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/ru/</loc>
+    <loc>https://reason-cookbook.netlify.app/ru/</loc>
+    <lastmod>2020-12-13T16:51:46-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://example.com/zh/"
+                href="https://reason-cookbook.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/"
+                href="https://reason-cookbook.netlify.app/ru/"
                 />
   </url>
   

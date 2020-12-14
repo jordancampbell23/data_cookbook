@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Book</title>
-    <link>https://example.com/docs/shortcodes/</link>
+    <link>https://reason-cookbook.netlify.app/docs/shortcodes/</link>
     <description>Recent content on Hugo Book</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/docs/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://reason-cookbook.netlify.app/docs/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/buttons/</link>
+      <link>https://reason-cookbook.netlify.app/docs/shortcodes/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/buttons/</guid>
+      <guid>https://reason-cookbook.netlify.app/docs/shortcodes/buttons/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/columns/</link>
+      <link>https://reason-cookbook.netlify.app/docs/shortcodes/columns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/columns/</guid>
+      <guid>https://reason-cookbook.netlify.app/docs/shortcodes/columns/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/details/</link>
+      <link>https://reason-cookbook.netlify.app/docs/shortcodes/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/details/</guid>
+      <guid>https://reason-cookbook.netlify.app/docs/shortcodes/details/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/expand/</link>
+      <link>https://reason-cookbook.netlify.app/docs/shortcodes/expand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/expand/</guid>
+      <guid>https://reason-cookbook.netlify.app/docs/shortcodes/expand/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/hints/</link>
+      <link>https://reason-cookbook.netlify.app/docs/shortcodes/hints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/hints/</guid>
+      <guid>https://reason-cookbook.netlify.app/docs/shortcodes/hints/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/katex/</link>
+      <link>https://reason-cookbook.netlify.app/docs/shortcodes/katex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/katex/</guid>
+      <guid>https://reason-cookbook.netlify.app/docs/shortcodes/katex/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/mermaid/</link>
+      <link>https://reason-cookbook.netlify.app/docs/shortcodes/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/mermaid/</guid>
+      <guid>https://reason-cookbook.netlify.app/docs/shortcodes/mermaid/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/shortcodes/tabs/</link>
+      <link>https://reason-cookbook.netlify.app/docs/shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/tabs/</guid>
+      <guid>https://reason-cookbook.netlify.app/docs/shortcodes/tabs/</guid>
       <description></description>
     </item>
     
